@@ -4,3 +4,5 @@ console.log(a)
 function sayhello(){
     console.log("hey how are you Welcommmeeee")
 }
+
+console.log("NeW Admission in The College So Welcome to New Environment")
